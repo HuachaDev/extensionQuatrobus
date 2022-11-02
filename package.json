@@ -1,0 +1,24 @@
+{
+  "name": "extensionquatrobus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuachaDev/extensionQuatrobus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuachaDev/extensionQuatrobus/issues"
+  },
+  "homepage": "https://github.com/HuachaDev/extensionQuatrobus#readme",
+  "dependencies": {
+    "esbuild": "^0.15.12",
+    "express": "^4.18.2"
+  }
+}
